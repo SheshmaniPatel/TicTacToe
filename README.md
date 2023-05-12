@@ -11,6 +11,6 @@ so for going into x or y axis you have to start your count from 0 to 2 and next 
 # EXAMPLE
 For going in the third box of 1st row (0 2) .
 
-For going in 3rd box of row three (2 2) .
+For going in 3rd box of 3rd row (2 2) .
 
 # Thanks
